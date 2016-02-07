@@ -123,6 +123,9 @@ More about developing:
 MORE INFORMATION
 ----------------
 
+* Drupal 8 and Drupal 7 support. Drupal 8 developers. Drupal 7 programmers:
+   https://www.chrisranjana.com/
+
  * See the Drupal.org online documentation:
    https://www.drupal.org/documentation
 
